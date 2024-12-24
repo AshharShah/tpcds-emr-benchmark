@@ -6,7 +6,7 @@ EMR On EKS Benchmark: [https://github.com/aws-samples/emr-on-eks-benchmark](http
 
 EMR Spark Benchmark: [https://github.com/aws-samples/emr-spark-benchmark](https://github.com/aws-samples/emr-spark-benchmark).
 
-This repository provides a general tool to benchmark Spark performance. For more details on the benchmark and results, visit the following [http://ashharshah.com/blogs/blogslist/be43e55a-4a4f-465a-9217-d2d783a90fb2](http://ashharshah.com/blogs/blogslist/be43e55a-4a4f-465a-9217-d2d783a90fb2).
+This repository provides a general tool to benchmark Spark performance. For more details on the benchmark and results, visit the following [http://ashharshah.com/blogs/blogslist/0376cdb1-5b66-48b8-85da-35f3573aa424](http://ashharshah.com/blogs/blogslist/0376cdb1-5b66-48b8-85da-35f3573aa424).
 
 ---
 
