@@ -2,11 +2,11 @@
 
 This is a fork of the two EMR Benchmark Repositories Provided By AWS Samples which can be found at the given links but lack proper documentation, this repository is a more beginner friendly & easy to understand.
 
-EMR On EKS Benchmark: [link](https://github.com/aws-samples/emr-on-eks-benchmark)
+EMR On EKS Benchmark: [https://github.com/aws-samples/emr-on-eks-benchmark](https://github.com/aws-samples/emr-on-eks-benchmark)
 
-EMR Spark Benchmark: [link](https://github.com/aws-samples/emr-spark-benchmark).
+EMR Spark Benchmark: [https://github.com/aws-samples/emr-spark-benchmark](https://github.com/aws-samples/emr-spark-benchmark).
 
-This repository provides a general tool to benchmark Spark performance. For more details on the benchmark and results, visit the following [link](http://ashharshah.com/blogs/blogslist/be43e55a-4a4f-465a-9217-d2d783a90fb2).
+This repository provides a general tool to benchmark Spark performance. For more details on the benchmark and results, visit the following [http://ashharshah.com/blogs/blogslist/be43e55a-4a4f-465a-9217-d2d783a90fb2](http://ashharshah.com/blogs/blogslist/be43e55a-4a4f-465a-9217-d2d783a90fb2).
 
 ---
 
